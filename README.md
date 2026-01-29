@@ -1,13 +1,9 @@
 # 💼 Job Portal – Production-Grade Full Stack Recruitment Platform
 
-![MERN](https://img.shields.io/badge/MERN-Stack-green)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Node](https://img.shields.io/badge/Backend-Node.js-brightgreen)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-success)
-![Clerk](https://img.shields.io/badge/Auth-Clerk-purple)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange)
-![Tailwind](https://img.shields.io/badge/Style-TailwindCSS-skyblue)
-![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
+![Stars](https://img.shields.io/github/stars/vedant0706/job-portal?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/vedant0706/job-portal?style=for-the-badge)
+![Watchers](https://img.shields.io/github/watchers/vedant0706/job-portal?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/vedant0706/job-portal?style=for-the-badge)
 
 ---
 
