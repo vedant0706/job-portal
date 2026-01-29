@@ -125,6 +125,8 @@ npm run server
 npm run dev
 ```
 
+---
+
 ### 📁 Project Architecture
 ```
 JOB_PORTAL/
@@ -155,12 +157,14 @@ JOB_PORTAL/
 - Browse job listings
 - Apply for jobs
 - Track application status
----
+
 🏢 Recruiters
 - Login using company email
 - Post new jobs
 - Manage job applications
 - Update applicant status
+
+--
 
 ### 🔒 Security & Best Practices
 - Clerk authentication (Google + Email)
@@ -181,6 +185,7 @@ JOB_PORTAL/
 ```
 vercel deploy --prod
 ```
+--
 
 ### 🤝 Contribution Guidelines
 Contributions are welcome 💙
@@ -191,6 +196,7 @@ git commit -m "Add: YourFeatureName"
 git push origin feature/YourFeatureName
 Open a Pull Request 🚀
 ```
+---
 
 ### 🖼️ Application Screenshots
 
@@ -246,6 +252,6 @@ If you need help or want to collaborate:
 
 
 <div align="center">
-**Built to demonstrate real-world full-stack engineering skills**  
+**Built to demonstrate real-world full-stack engineering skills** <br />
 **Made with ❤️ by Vedant Jadhav**
 </div>
